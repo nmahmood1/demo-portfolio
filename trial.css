@@ -121,3 +121,10 @@ header {
   background-color: #10b981;
   border-radius: 20px;
 }
+
+.tag {
+  padding: 4px 20px;
+  background-color: #6b6f75;
+  border-radius: 12px;
+  color: white;
+}
